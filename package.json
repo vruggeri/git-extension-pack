@@ -1,0 +1,35 @@
+{
+    "name": "git-extension-pack",
+    "displayName": "git-extension-pack",
+    "description": "Popular Visual Studio Code extensions for Git",
+    "publisher": "prodam",
+	"icon": "git.png",
+	"galleryBanner": {
+		"color": "#f0efe7",
+		"theme": "light"
+	},
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },    
+	"keywords": [
+		"git", "gitblame", "blame", "project", "folder"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+	"repository": {
+		"url": "https://github.com/vruggeri/git-extension-pack"
+	},
+	"homepage": "https://github.com/vruggeri/git-extension-pack",
+	"bugs": {
+		"url": "https://github.com/vruggeri/git-extension-pack/issues"
+	},
+	"extensionPack": [
+		"donjayamanne.githistory",
+		"alefragnani.project-manager",
+		"eamodio.gitlens",
+		"codezombiech.gitignore",
+		"ziyasal.vscode-open-in-github"
+	]
+}
