@@ -1,4 +1,6 @@
 # README
+[![Version](https://vsmarketplacebadge.apphb.com/version/prodam.git-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.git-extension-pack)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/prodam.git-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.git-extension-pack)
 
 ## This is the README for your extension pack "git-extension-pack"
 
